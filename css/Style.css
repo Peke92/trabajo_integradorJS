@@ -70,7 +70,6 @@ form {
     margin-bottom: 0%;
 }
 
-/* Asegúrate de que los elementos dentro del formulario tengan un ancho del 100% si es necesario */
 form input[type="text"],
 form textarea {
     width: 100%;
